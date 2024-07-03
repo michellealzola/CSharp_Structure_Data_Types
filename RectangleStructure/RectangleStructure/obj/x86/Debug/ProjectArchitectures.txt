@@ -1,0 +1,1 @@
+F:\0001_XAML\RectangleStructure\RectangleStructure\RectangleStructure.csproj;x86
