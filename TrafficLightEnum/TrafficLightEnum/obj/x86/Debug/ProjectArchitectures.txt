@@ -1,0 +1,1 @@
+F:\0001_XAML\TrafficLightEnum\TrafficLightEnum\TrafficLightEnum.csproj;x86
