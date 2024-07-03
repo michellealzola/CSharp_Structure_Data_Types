@@ -1,0 +1,1 @@
+F:\0001_XAML\CoffeeSizesEnum\CoffeeSizesEnum\CoffeeSizesEnum.csproj;x86
